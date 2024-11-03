@@ -290,3 +290,8 @@
 .copyright{
   font-size: 0.75rem;
 }
+
+
+.pointer{
+  cursor: pointer;
+}
