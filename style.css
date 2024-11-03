@@ -290,9 +290,3 @@
 .copyright{
   font-size: 0.75rem;
 }
-
-
-.border:hover{
-  border: 2px solid white;
-  border-radius: 4px;
-}
